@@ -1,4 +1,3 @@
-package ai.skellam.tests;
 
 import java.util.ArrayList;
 import java.util.Arrays;
